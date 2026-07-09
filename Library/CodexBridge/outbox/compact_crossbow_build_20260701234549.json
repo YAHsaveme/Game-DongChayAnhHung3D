@@ -1,0 +1,13 @@
+{
+  "id": "compact_crossbow_build_20260701234549",
+  "ok": true,
+  "message": "Invoked static method: S03SinglePlayerArenaBuilder.BuildScene",
+  "timestamp": "2026-07-01T16:54:44.9930220Z",
+  "data": {
+    "unityVersion": "6000.4.6f1",
+    "projectPath": "D:\\PRU213\\Single Player Combat Arena\\D-DongChayAnhHung3D",
+    "activeScene": "S03",
+    "activeScenePath": "Assets/Scenes/S03.unity",
+    "isPlaying": false
+  }
+}

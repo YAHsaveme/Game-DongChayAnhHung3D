@@ -1,0 +1,13 @@
+{
+  "id": "s03_ground_fix_verify_20260702002515",
+  "ok": false,
+  "message": "TargetInvocationException: Exception has been thrown by the target of an invocation.",
+  "timestamp": "2026-07-01T17:25:25.1904292Z",
+  "data": {
+    "unityVersion": "6000.4.6f1",
+    "projectPath": "D:\\PRU213\\Single Player Combat Arena\\D-DongChayAnhHung3D",
+    "activeScene": "S03",
+    "activeScenePath": "Assets/Scenes/S03.unity",
+    "isPlaying": false
+  }
+}

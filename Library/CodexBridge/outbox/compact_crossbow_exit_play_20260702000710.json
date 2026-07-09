@@ -1,0 +1,13 @@
+{
+  "id": "compact_crossbow_exit_play_20260702000710",
+  "ok": true,
+  "message": "Exiting play mode.",
+  "timestamp": "2026-07-01T17:07:20.2884801Z",
+  "data": {
+    "unityVersion": "6000.4.6f1",
+    "projectPath": "D:\\PRU213\\Single Player Combat Arena\\D-DongChayAnhHung3D",
+    "activeScene": "S03",
+    "activeScenePath": "Assets/Scenes/S03.unity",
+    "isPlaying": false
+  }
+}

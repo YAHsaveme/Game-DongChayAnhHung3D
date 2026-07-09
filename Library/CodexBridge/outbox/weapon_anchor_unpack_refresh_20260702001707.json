@@ -1,0 +1,13 @@
+{
+  "id": "weapon_anchor_unpack_refresh_20260702001707",
+  "ok": true,
+  "message": "AssetDatabase.Refresh completed.",
+  "timestamp": "2026-07-01T17:17:07.4817239Z",
+  "data": {
+    "unityVersion": "6000.4.6f1",
+    "projectPath": "D:\\PRU213\\Single Player Combat Arena\\D-DongChayAnhHung3D",
+    "activeScene": "S03",
+    "activeScenePath": "Assets/Scenes/S03.unity",
+    "isPlaying": false
+  }
+}

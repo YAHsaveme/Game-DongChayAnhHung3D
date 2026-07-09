@@ -1,0 +1,15 @@
+{
+  "controllerPath": "Assets/Animations/Player/VanAn.controller",
+  "modelPath": "Assets/Models/Player/Van_An/Van_An_Model.fbx",
+  "controllerCreated": true,
+  "avatarFound": true,
+  "avatarIsHuman": true,
+  "avatarIsValid": true,
+  "changedScenes": 3,
+  "idleClip": "Idle",
+  "walkClip": "Walk",
+  "runClip": "Run",
+  "hitClip": "Hit",
+  "pushClip": "Push",
+  "deathClip": "Death"
+}

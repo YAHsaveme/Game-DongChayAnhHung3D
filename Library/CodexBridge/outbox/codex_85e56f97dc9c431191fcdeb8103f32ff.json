@@ -1,0 +1,13 @@
+{
+  "id": "codex_85e56f97dc9c431191fcdeb8103f32ff",
+  "ok": true,
+  "message": "Exiting play mode.",
+  "timestamp": "2026-07-02T03:16:14.4966422Z",
+  "data": {
+    "unityVersion": "6000.4.6f1",
+    "projectPath": "D:\\PRU213\\Single Player Combat Arena\\D-DongChayAnhHung3D",
+    "activeScene": "MainMenu",
+    "activeScenePath": "Assets/Scenes/MainMenu.unity",
+    "isPlaying": false
+  }
+}
